@@ -115,8 +115,6 @@ In a production environment, steps like automated testing, linting, and deployme
 
 Docker Build Caching: Optimizing the Dockerfile to cache dependencies for faster rebuilds.
 
-CI/CD Secrets Management: Safeguarding registry credentials using GitHub Secrets.
-
 **Future Enhancements**
 
 GitOps tools such as ArgoCD or Flux could be leveraged to manage the continuous delivery of Kubernetes resources. 
