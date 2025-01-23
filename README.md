@@ -39,12 +39,14 @@ Start Minikube with sufficient resources:
 
 `minikube start --cpus=2 --memory=2048
 `
+
 2. Enable Docker in Minikube
 
 Use Minikube’s Docker environment to build images directly:
 
 `eval $(minikube docker-env)
 `
+
 3. Check minikube status 
 
 ![img_1.png](src/main/resources/static/img_1.png)
